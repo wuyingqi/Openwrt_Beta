@@ -9,7 +9,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: AX6_AP_war1
+name: AX6_AP_war2
 
 on:
   repository_dispatch:
